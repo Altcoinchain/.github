@@ -1,17 +1,27 @@
 ## Altcoinchain - a Fair, Permissionless POW Layer 1 Blockchain
 
+
 Connect Metamask:
+
 Network name: Altcoinchain
+
 RPC URL: http://154.12.237.243:8545/
+
 Recommended: To your own node: 
+
 (start daemon with extra flags --http --http.addr <<your external ip>>
+  
   setup metamask with http://<<your external ip>>:8545 as rpc url)
 
 Chain ID: 12345
+  
 Currency symbol: ALT
+  
 
 https://www.altcoinchain.org/
+  
 Discord: https://discord.gg/hcXHyQP4Je
+  
 Twitter: https://twitter.com/chainAltcoin
 
 <!--
