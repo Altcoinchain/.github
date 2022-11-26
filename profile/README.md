@@ -1,5 +1,6 @@
 ## Altcoinchain - a Fair, Permissionless POW Layer 1 Blockchain
 
+-
 
 Connect Metamask:
 
@@ -17,7 +18,8 @@ Chain ID: 12345
   
 Currency symbol: ALT
   
-
+-
+  
 https://www.altcoinchain.org/
   
 Discord: https://discord.gg/hcXHyQP4Je
