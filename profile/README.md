@@ -6,7 +6,7 @@ Connect Metamask:
 
 Network name: Altcoinchain
 
-RPC URL: http://154.12.237.243:8545/
+RPC URL: http://154.12.237.243:8547/
 
 Recommended: To your own node: 
 
@@ -14,7 +14,7 @@ Recommended: To your own node:
   
   setup metamask with http://<<your external ip>>:8545 as rpc url)
 
-Chain ID: 12345
+Chain ID: 2330
   
 Currency symbol: ALT
   
