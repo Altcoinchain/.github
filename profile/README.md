@@ -6,7 +6,7 @@ Connect Metamask:
 
 Network name: Altcoinchain
 
-RPC URL: http://154.12.237.243:8547/
+RPC URL: https://rpc0.altcoinchain.org/rpc
 
 Recommended: To your own node: 
 
@@ -17,6 +17,10 @@ Recommended: To your own node:
 Chain ID: 2330
   
 Currency symbol: ALT
+
+Explorer: http://expedition.altcoinchain.org/
+
+WALT Wrapped ALT on Altcoinchain contract:  0x48721ADeFE5b97101722c0866c2AffCE797C32b6
   
 -
   
