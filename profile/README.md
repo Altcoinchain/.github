@@ -6,7 +6,7 @@ Connect Metamask:
 
 Network name: Altcoinchain
 
-RPC URL: https://rpc0.altcoinchain.org/rpc
+RPC URL: https://rpc0.altcoinchain.org/rpc , http://62.72.177.111:8145
 
 Recommended: To your own node: 
 
