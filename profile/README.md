@@ -18,10 +18,13 @@ Chain ID: 2330
   
 Currency symbol: ALT
 
-Explorer: http://expedition.altcoinchain.org/ , http://node-sub.network:4100/
-
+Explorer: 
+http://alt-exp.outsidethebox.top
+http://expedition.altcoinchain.org
 WALT Wrapped ALT on Altcoinchain contract:  0x48721ADeFE5b97101722c0866c2AffCE797C32b6
-  
+
+Network Stats:
+http://alt-stat.outsidethebox.top
 -
   
 https://www.altcoinchain.org/
